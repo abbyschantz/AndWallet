@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="emptyAmount">You must enter a numerical amount</string>
+    <string name="emptyName">Please enter a title for this amount</string>
+    <string name="emptyBoth">Why are you trying to add nothing...</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="total">Your total comes out to, </string>
+    <string name="logger">Logger</string>
+    <string name="summary">Summary</string>
+    <string name="unknownCurrency">Unknown Currency</string>
+    <string name="positive">Good work, you\'re net positive!</string>
+    <string name="negative">Whoops... let\'s try to save a little more.</string>
+    <string name="zero">You\'re breaking even.</string>
+</resources>
